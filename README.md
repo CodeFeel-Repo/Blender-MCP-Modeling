@@ -19,7 +19,7 @@ K2 Black Panther(흑표)의 Blender 작업 파일과 외형 모델링용 참고 
 1. 저장소를 복제합니다.
 
    ```sh
-   git clone https://github.com/CodeFeel-Repo/Blender-MCP-Modeling.git ROK-Weapon-Release
+   git clone https://github.com/CodeFeel-Repo/ROK-Weapon-Release.git
    ```
 
    Git을 사용하지 않는 경우 저장소의 **Code → Download ZIP**으로 내려받은 뒤 압축을 풉니다.
